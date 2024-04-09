@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/02 20:55:57.000.069,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/02 21:01:38.000.312,C:\Users\Junior\Documents\Sistema\Forms\U_Cadastro.dfm=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/04/02 21:01:38.000.312,C:\Users\Junior\Documents\Sistema\Forms\U_Cadastro.pas=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/02 21:02:04.000.001,C:\Users\Junior\Documents\Sistema\Projeto\Contato.dproj=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/04/04 00:05:52.000.753,=C:\Users\Junior\Documents\Sistema\Projeto\Unit2.pas</Transaction>
+    <Transaction>2024/04/04 00:06:32.000.588,C:\Users\Junior\Documents\Sistema\Projeto\Unit2.dfm=C:\Users\Junior\Documents\Sistema\Forms\U_Pesquisa.dfm</Transaction>
+    <Transaction>2024/04/04 00:06:32.000.588,C:\Users\Junior\Documents\Sistema\Projeto\Unit2.pas=C:\Users\Junior\Documents\Sistema\Forms\U_Pesquisa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
